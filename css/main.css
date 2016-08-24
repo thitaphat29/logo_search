@@ -1,0 +1,65 @@
+*{
+	box-sizing: border-box;
+}
+
+h1{
+	font-family: 'Great Vibes', cursive;
+	color: #9F2931;
+}
+
+.btn{
+	width: 150px;
+	outline: none;
+}
+
+
+.container{
+	margin-top: 40px;
+	text-align: center;
+}
+
+
+
+.logo{
+	margin: 20px 0;
+}
+
+
+.logo1-gray ,.logo1-color,
+.logo2-gray ,.logo2-color,
+.logo3-gray ,.logo3-color,
+.logo4-gray ,.logo4-color,
+.logo5-gray ,.logo5-color,
+.logo6-gray ,.logo6-color,
+.logo7-gray ,.logo7-color,
+.logo8-gray ,.logo8-color{
+	margin-bottom: 20px;
+}
+
+.logo1-color,
+.logo2-color,
+.logo3-color,
+.logo4-color,
+.logo5-color,
+.logo6-color,
+.logo7-color,
+.logo8-color{
+
+	display: none;
+	
+}
+
+.search-form .form-group{
+	display: inline-block;
+	width: 350px;
+	margin: 30px 10px;
+	
+}
+
+.search-form {
+	background-color: #F1F1F1;
+	width: 70%;
+	display: block;
+	margin: 30px auto;
+	padding: 0 0 30px 0;
+}
